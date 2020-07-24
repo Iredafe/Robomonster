@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Iredafe/Robomonster/static/css/main.ed1d830e.chunk.css",
+    "main.js": "/Iredafe/Robomonster/static/js/main.95e8580c.chunk.js",
+    "main.js.map": "/Iredafe/Robomonster/static/js/main.95e8580c.chunk.js.map",
+    "runtime-main.js": "/Iredafe/Robomonster/static/js/runtime-main.13e242bc.js",
+    "runtime-main.js.map": "/Iredafe/Robomonster/static/js/runtime-main.13e242bc.js.map",
+    "static/js/2.991ffe15.chunk.js": "/Iredafe/Robomonster/static/js/2.991ffe15.chunk.js",
+    "static/js/2.991ffe15.chunk.js.map": "/Iredafe/Robomonster/static/js/2.991ffe15.chunk.js.map",
+    "index.html": "/Iredafe/Robomonster/index.html",
+    "precache-manifest.70051925977ea36975226c98279fae6b.js": "/Iredafe/Robomonster/precache-manifest.70051925977ea36975226c98279fae6b.js",
+    "service-worker.js": "/Iredafe/Robomonster/service-worker.js",
+    "static/css/main.ed1d830e.chunk.css.map": "/Iredafe/Robomonster/static/css/main.ed1d830e.chunk.css.map",
+    "static/js/2.991ffe15.chunk.js.LICENSE.txt": "/Iredafe/Robomonster/static/js/2.991ffe15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e242bc.js",
+    "static/js/2.991ffe15.chunk.js",
+    "static/css/main.ed1d830e.chunk.css",
+    "static/js/main.95e8580c.chunk.js"
+  ]
+}
